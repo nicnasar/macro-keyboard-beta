@@ -1,0 +1,15 @@
+I'm having trouble with converting the files from .SVG to .DXF online with the crude files. Because of that, I found that if I export the files in PNG format with a resolution of 26434 by 50000 pixels in Inkscape, and then convert the PNG to DXF, it works perfectly. I don't have any idea on why this happens, but the method works.
+
+The step-by-step guide is this:
+
+1. Download the .SVG files;
+2. Open them in Inkscape;
+3. Export with the resolution mentioned above;
+4. Open any website that does the convertion and change the filetype;
+5. Download the files.
+
+===============GENERAL-INFO===============
+
+Board size: 60 x 118 mm
+Microcontroler: R2040 Zero
+Diodes: 1N4148
