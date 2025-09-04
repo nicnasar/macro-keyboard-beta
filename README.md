@@ -1,11 +1,11 @@
-# Macro Keyboard Beta v0.1
+# Macro Keyboard Beta v0.2
 Repository for holding all the files of the Macro Keyboard developed by Nicolas Nasário and Alvaro Radavelli.
 
 ## Step-by-Step Guide on How to Make the PCB
 
 I'm using a different technique that I learned from this video:
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/{gY0AELOHGRc})](https://youtu.be/{gY0AELOHGRc})
+[![Watch](https://img.youtube.com/vi/gY0AELOHGRc/0.jpg)](https://www.youtube.com/watch?v=SgY0AELOHGRc)
 
 In order to replicate that, you have to do the same steps as shown below:
 
