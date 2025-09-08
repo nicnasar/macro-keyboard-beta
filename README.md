@@ -5,6 +5,8 @@ Repository for holding all the files of the Macro Keyboard developed by Nicolas 
 
 I'm using a different technique that I learned from this video:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gY0AELOHGRc?si=q3OM5i7Ogq2QPgud" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [![Watch](https://img.youtube.com/vi/gY0AELOHGRc/0.jpg)](https://www.youtube.com/watch?v=gY0AELOHGRc)
 
 In order to replicate that, you have to do the same steps as shown below:
